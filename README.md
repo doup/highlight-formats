@@ -8,10 +8,6 @@ Highlights LO.org or OO.org document formats so that it's easier to spot them. U
 Installation
 ------------
 
-<p style="float:right; margin-left:1em;">
-    <img src="assets/menu.png" />
-</p>
-
 Follow these steps to install the script as a menu item in LO.org:
 
 1. ...
